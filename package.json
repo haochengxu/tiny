@@ -1,0 +1,23 @@
+{
+  "name": "tiny",
+  "version": "1.0.0",
+  "description": "We know that compund is vital in many aspects, including welath, health, relationship and so on. But it takes patience and continuous work to cultivate the growth of anything. As it says, the process is the result. We want to help you in this process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@remix-run/node": "^2.7.2",
+    "@remix-run/react": "^2.7.2",
+    "@remix-run/serve": "^2.7.2",
+    "isbot": "^4.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@remix-run/dev": "^2.7.2"
+  }
+}
